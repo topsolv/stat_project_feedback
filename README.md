@@ -36,7 +36,7 @@ ATTENTION: Google много где предлагает платный GSuite, 
 Разрешенные UTI перенаправления: http://localhost:8080/
 Создать
 
-3. Скачать client_secret_<verylong>.json, переименовать в client_secret.json и положить в папку со скриптом. (то есть там всего 2 файла: сам питоновский скрипт и client_secret.json
+3. Скачать client_secret_\<very long id\>.json, переименовать в client_secret.json и положить в папку со скриптом. (то есть там всего 2 файла: сам питоновский скрипт и client_secret.json
 
 ### Получение доступа к аккаунту Google Drive
 
